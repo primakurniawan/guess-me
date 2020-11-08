@@ -1,0 +1,13 @@
+input {
+  border: 1px solid orange;
+  padding: 0.5rem;
+  background-color: transparent;
+  margin: 0 0.25rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  font-size: 1.5rem;
+}
+
+.inputName {
+  text-align: center;
+}
